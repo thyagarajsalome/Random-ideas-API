@@ -1,0 +1,45 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Build and Compilation Artifacts
+/build/
+/dist/
+/out/
+/target/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Dependency Directories (common examples - adjust as needed)
+node_modules/
+vendor/
+venv/
+env/
+.gradle/
+Pods/
+
+# Environment Variables and Sensitive Files
+.env
+*.env
+config.local.js
+config.private.php
+secrets.py
+key.pem
+*.key
+*.pem
+
+# Crashes, dumps, and logs
+*.stackdump
+*.dmp
+*.err
